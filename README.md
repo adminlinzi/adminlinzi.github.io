@@ -6,3 +6,8 @@
 <br>其他待定
 
 <p><h1>文章列表</h1></p>
+<br>1、[首页](https://adminlinzi.github.io/index.html)
+<br>2、[如何访问暗网](https://adminlinzi.github.io/page2.html)
+<br>
+<br>
+<br>
