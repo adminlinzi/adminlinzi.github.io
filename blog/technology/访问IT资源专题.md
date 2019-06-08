@@ -31,3 +31,4 @@ https://c.ishadowx.com<br>
 https://free1.gyteng.com<br>
 https://www.ssrtool.com/tool/free_ssr<br>
 https://my.ss8.fun<br>
+https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/ss免费节点地址收藏.md <br>
