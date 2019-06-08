@@ -12,7 +12,6 @@
 <br><h2>综合</h2>
 <br><a href="https://adminlinzi.github.io/index.html" target="_blank">首页</a>
 <br><a href="https://adminlinzi.github.io/page2.html" target="_blank">如何访问deepNet</a>
-<br><a href="www.baidu.com" target="_blank">aaa</a>
 
 <br><h2>技术</h2>
 - <h3>技术应用</h3>
