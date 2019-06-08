@@ -38,3 +38,4 @@
 <br><h2>生活</h2>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/newLife/租房备忘录.md" target="_blank">租房备忘录</a>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/newLife/买房备忘录.md" target="_blank">买房备忘录</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/出差行李备忘.md" target="_blank">出差行李备忘</a>
