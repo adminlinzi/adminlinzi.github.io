@@ -17,11 +17,12 @@
 - <h3>技术应用</h3>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/centos7使用IP命令读取任意文件.md" target="_blank">centos7使用IP命令读取任意文件</a>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/OpenStackRocky实验笔记-2019.docx" target="_blank">OpenStackRocky实验笔记-2019</a>
-<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/访问IT资源专题.md" target="_blank">访问IT资源专题</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/gitCrypt-git传输加密.md" target="_blank">gitCrypt-git传输加密</a>
 
 - <h3>资源收集</h3>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/工具收藏-2019.md" target="_blank">工具收藏-2019</a>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/工作学习资源收集-2019.md" target="_blank">工作学习资源收集-2019</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/访问IT资源专题.md" target="_blank">访问IT资源专题</a>
 
 <br><h2>工作</h2>
 - <h3>求职</h3>
