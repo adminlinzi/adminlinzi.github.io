@@ -18,6 +18,7 @@
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/centos7使用IP命令读取任意文件.md" target="_blank">centos7使用IP命令读取任意文件</a>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/OpenStackRocky实验笔记-2019.docx" target="_blank">OpenStackRocky实验笔记-2019</a>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/gitCrypt-git传输加密.md" target="_blank">gitCrypt-git传输加密</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/Linux下会话终端管理.md" target="_blank">Linux下会话终端管理</a>
 
 - <h3>资源收集</h3>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/工具收藏-2019.md" target="_blank">工具收藏-2019</a>

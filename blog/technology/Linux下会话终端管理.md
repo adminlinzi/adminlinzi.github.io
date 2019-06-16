@@ -1,7 +1,6 @@
-screen命令:https://linux.cn/article-10960-1.html
+Linux下终端会话管理工具：
+- 环境：centos7 64bit
+- 终端录制：
 
-其他诸多工具：https://www.jianshu.com/p/6e8fb918a55c
 
-TermRecord
-
-需要整理一下
+- 会话管理：
