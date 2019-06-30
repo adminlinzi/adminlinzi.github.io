@@ -24,6 +24,7 @@ https://www.sshaccess.com<br>
 **可调节（可以全局和局部之间切换）：**
 1. 工具<br>
 shadowsocks:https://github.com/shadowsocks/shadowsocks/releases<br>
+v2ray：https://github.com/v2ray/v2ray-core<br>
 
 2. 资源<br>
 https://shadow.tunnelz.online<br>
@@ -32,3 +33,5 @@ https://free1.gyteng.com<br>
 https://www.ssrtool.com/tool/free_ssr<br>
 https://my.ss8.fun<br>
 https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/ss免费节点地址收藏.md <br>
+https://cat.freess.info<br>
+https://github.com/max2max/freess （https://www.veekxt.com/utils/v2ray_gen）<br>
