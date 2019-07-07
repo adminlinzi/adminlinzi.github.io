@@ -19,9 +19,16 @@ $ python3 get-pip.py
 生成的test.html文件，这个文件可以放到任何地方，用任何浏览器打开，然后查看刚才录制的操作。 <br>
 <br>
 
-&ensp;&ensp;&ensp;&ensp;**asciinema** : 录制当前终端的会话，包括文件编辑的内容，录制输出的内容，可以在线查看，动态展示，可以直接复制录制到的内容，无论是命令还是编辑的文件内容。可以发布到网上给大家直接分享。 <br>
+&ensp;&ensp;&ensp;&ensp;**asciinema** : 录制当前终端的会话，包括文件编辑的内容，录制输出的内容，可以在线查看，动态展示，可以直接复制录制到的内容，
+无论是命令还是编辑的文件内容。可以发布到网上给大家直接分享。 <br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[安装](https://asciinema.org/docs/installation) : ```# yum install asciinema -y```  <br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[使用](https://asciinema.org/docs/usage) : ```# asciinema rec```   # 开启录制，录制结束以后，输入exit或者Ctrl + D结束录制，录制以后，可以选择按enter键，上传到网上，分享给其他人，可以指定分享，也可以公开反向，也可以按Ctrl + C保存在本地，只分享给指定的人。<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[使用](https://asciinema.org/docs/usage) : ```# asciinema rec```   # 开启录制，录制结束以后，
+输入exit或者Ctrl + D结束录制，录制以后，可以选择按enter键，上传到网上，分享给其他人，可以指定分享，也可以公开反向，也可以按Ctrl + C保存在本地，
+只分享给指定的人。<br>
+<br>
+
+&ensp;&ensp;&ensp;&ensp;**script** :  参考https://blog.csdn.net/ouyang_peng/article/details/78818492 
+
 <br>
 
 
