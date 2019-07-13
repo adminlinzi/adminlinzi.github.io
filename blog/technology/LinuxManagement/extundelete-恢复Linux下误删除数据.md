@@ -21,7 +21,7 @@ wget  http://zy-res.oss-cn-hangzhou.aliyuncs.com/server/extundelete-0.2.4.tar.bz
 yum -y install  bzip2  e2fsprogs-devel  e2fsprogs  gcc-c++  make    #安装相关依赖和库
 tar -xvjf extundelete-0.2.4.tar.bz2
 cd extundelete-0.2.4                                #进入程序目录
-./configure                                         #如下图表示安装成功
+./configure                                         
 make && make install
 
 ```
