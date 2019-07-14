@@ -40,3 +40,7 @@ TestDisk 可恢复以下文件系统的丢失分区:
 下载：https://www.cgsecurity.org/wiki/TestDisk_Download
 使用帮助手册：https://www.cgsecurity.org/wiki/TestDisk_CN
 备注：帮助手册提供的编译源码的方式不管用，特别是在fedora环境，帮助手册提到的可用文件不存在。
+
+操作: [参考阿里的文档](https://help.aliyun.com/document_detail/52046.html?spm=5176.229592.1220801.13.39fb3d92OyzrSh)
+对于阿里的文档，有些疑惑，没看出来这个工具具体的价值，感觉就手工挂载一下分区就可以继续正常用了，特别是第一部分对于分区挂载丢失的处理。
+第二部分有个恢复文件，只能将该分区现有的文件，copy到指定的目录，对于分区中已经被删除的文件，是无法恢复的，根本看不到被删除的文件的痕迹。
