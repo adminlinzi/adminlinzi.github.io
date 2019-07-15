@@ -30,12 +30,19 @@
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/应聘提问清单.md" target="_blank">应聘提问清单</a>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/求职备忘-2019年(需要完善更新).md" target="_blank">求职备忘-2019年(需要完善更新)</a>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/求职就业渠道收集.md" target="_blank">求职就业渠道收集</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/关于外包.md" target="_blank">关于外包</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/岗位技能树.md" target="_blank">岗位技能树</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/简历技巧.md" target="_blank">简历技巧</a>
 
 - <h3>入职</h3>
-- <h3>在职</h3>
-- <h3>离职</h3>
-<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/劳务仲裁相关-2019年(需要完善).md" target="_blank">劳务仲裁相关-2019年(需要完善)</a>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/入职备忘.md" target="_blank">入职备忘</a>
 
+- <h3>在职</h3>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/在职备忘.md" target="_blank">在职备忘</a>
+
+
+- <h3>离职</h3>
+<br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/getAJob/离职备忘.md" target="_blank">离职备忘</a>
 
 <br><h2>生活</h2>
 <br><a href="https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/newLife/租房备忘录.md" target="_blank">租房备忘录</a>
