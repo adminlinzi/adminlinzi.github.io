@@ -35,3 +35,10 @@ https://my.ss8.fun<br>
 https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/ss免费节点地址收藏.md <br>
 https://cat.freess.info<br>
 https://github.com/max2max/freess （https://www.veekxt.com/utils/v2ray_gen）<br>
+
+杂项：
+https://github.com/comeforu2012/truth/wiki
+
+
+服务端：
+https://github.com/cnlh/nps

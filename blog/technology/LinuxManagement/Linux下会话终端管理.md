@@ -26,8 +26,8 @@ $ python3 get-pip.py
 输入exit或者Ctrl + D结束录制，录制以后，可以选择按enter键，上传到网上，分享给其他人，可以指定分享，也可以公开反向，也可以按Ctrl + C保存在本地，
 只分享给指定的人。<br>
 <br>
-
-&ensp;&ensp;&ensp;&ensp;**script** :  参考https://blog.csdn.net/ouyang_peng/article/details/78818492 
+参考https://blog.csdn.net/ouyang_peng/article/details/78818492   需要整理一下。
+&ensp;&ensp;&ensp;&ensp;**script** :  
 
 <br>
 
@@ -49,3 +49,7 @@ Ctrl + D 退出当前会话。 <br>
 ```
 <br>部署出现异常，添加用户以后，web界面访问不到，防火墙都关闭了，可以ssh，可以ping通，但是web界面访问不到。待排查。 <br>
 &ensp;&ensp;&ensp;&ensp;[**showterm**](http://showterm.io) : 整体与asciinema很像。需要额外配置ruby环境才能安装和使用。可以把录制的内容，镶嵌在网页中。
+
+
+https://github.com/nelhage/reptyr  需要整理一下
+
