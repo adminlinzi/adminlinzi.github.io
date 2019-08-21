@@ -5,7 +5,8 @@
 [root@server ~]# pip install --upgrade pip  
 [root@server ~]# pip install shadowsocks  
 [root@server ~]# vim /etc/shadowsocks.json  
-```{
+```
+{
   "server": "0.0.0.0",
   "local_address": "127.0.0.1",
   "local_port": 1080,
