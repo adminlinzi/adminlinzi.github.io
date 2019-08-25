@@ -6,7 +6,9 @@ $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 $ python3 get-pip.py
 ```
 &ensp;&ensp;&ensp;&ensp;或者:
+```$ yum -y install epel-release``` <br> 需要先添加epel源。
 ```$ yum install python-pip``` <br>
+```$ yum install python-pip python-devel ``` 这是一个老外给的操作方案<br>
 
 - 工具介绍（包含了系统自带和额外部署）<br>
 **TermRecord** : 可以对当前终端的会话操作进行录制，录制包含了文件的编辑内容，完整的操作动作都进行了录制，但是不会显示操作者使用了什么按键，
