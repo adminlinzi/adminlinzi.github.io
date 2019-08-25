@@ -35,7 +35,7 @@ $ python3 get-pip.py
 
 &ensp;&ensp;&ensp;&ensp;[**showterm**](http://showterm.io) : 整体与asciinema很像。需要额外配置ruby环境才能安装和使用。可以把录制的内容，镶嵌在网页中。<br>
 
-**screen** : centos自带的命令，是一个很好用的会话管理器。可以用于保持某个操作，例如正在监控某个进程，但是担心ssh断开以后，回不到原有的会话，可以使用screen解决这个问题。<br>
+&ensp;&ensp;&ensp;&ensp;**screen** : centos自带的命令，是一个很好用的会话管理器。可以用于保持某个操作，例如正在监控某个进程，但是担心ssh断开以后，回不到原有的会话，可以使用screen解决这个问题。<br>
 创建会话名字为test01的会话 : ```# screen -S test01``` <br>
 Ctrl + D 退出当前会话。 <br>
 查看当前有哪些会话 ： ```# screen -ls``` 可以看到有会话ID。 <br>
