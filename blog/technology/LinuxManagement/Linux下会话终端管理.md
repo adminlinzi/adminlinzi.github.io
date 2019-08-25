@@ -6,8 +6,7 @@ $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 $ python3 get-pip.py
 ```
 &ensp;&ensp;&ensp;&ensp;或者:
-```$ yum install python-pip``` 
-<br>
+```$ yum install python-pip``` <br>
 
 - 工具介绍（包含了系统自带和额外部署）<br>
 **TermRecord** : 可以对当前终端的会话操作进行录制，录制包含了文件的编辑内容，完整的操作动作都进行了录制，但是不会显示操作者使用了什么按键，
@@ -17,7 +16,6 @@ $ python3 get-pip.py
 &ensp;&ensp;录制 ```$ TermRecord -o /tmp/test.html``` <br>
 &ensp;&ensp;暂停退出录制 ```exit``` <br>
 生成的test.html文件，这个文件可以放到任何地方，用任何浏览器打开，然后查看刚才录制的操作。 <br>
-<br>
 
 &ensp;&ensp;&ensp;&ensp;**asciinema** : 录制当前终端的会话，包括文件编辑的内容，录制输出的内容，可以在线查看，动态展示，可以直接复制录制到的内容，
 无论是命令还是编辑的文件内容。可以发布到网上给大家直接分享。 <br>
@@ -25,7 +23,6 @@ $ python3 get-pip.py
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[使用](https://asciinema.org/docs/usage) : ```# asciinema rec```   # 开启录制，录制结束以后，
 输入exit或者Ctrl + D结束录制，录制以后，可以选择按enter键，上传到网上，分享给其他人，可以指定分享，也可以公开反向，也可以按Ctrl + C保存在本地，
 只分享给指定的人。<br>
-<br>
 
 &ensp;&ensp;&ensp;&ensp;**script** :  <br>
 记录用户在终端的操作，可以将记录存储为指定的文件。```scriptreplay``` 命令可以堆记录进行回放。默认保存在执行```script``` 所在目录的typescript文件。可以直接```cat```查看。
@@ -35,8 +32,6 @@ $ python3 get-pip.py
 更多用法```scripte -h```
 -a ,追加录制。可以追加录制到已经存在的录制文件中。<br>
 -c, 追加要执行的命令。<br>
-
-<br>
 
 &ensp;&ensp;&ensp;&ensp;[**showterm**](http://showterm.io) : 整体与asciinema很像。需要额外配置ruby环境才能安装和使用。可以把录制的内容，镶嵌在网页中。<br>
 
@@ -56,7 +51,7 @@ Ctrl + D 退出当前会话。 <br>
 # bash install
 # teleport start
 ```
-<br>部署出现异常，添加用户以后，web界面访问不到，防火墙都关闭了，可以ssh，可以ping通，但是web界面访问不到。待排查。 <br>
+<br>当前部署测试中出现异常，添加用户以后，web界面访问不到，防火墙都关闭了，可以ssh，可以ping通，但是web界面访问不到。待排查。 <br>
 
 &ensp;&ensp;&ensp;&ensp;[**reptyr**](https://github.com/nelhage/reptyr) :  <br>
 可以对进程进行管理，将某个后台进程调用到前台可见，切换ssh会话也可以实现进程的管理。开发者自称，该工具比screenify效果更好。支持主流的Linux发行版本，支持freeBSD，但是在FreeBSD环境下，
@@ -74,4 +69,4 @@ $ yum  install  gcc -y
 $ make && make install
 $ reptyr --help
 ```
- <br>
+<br>
