@@ -28,8 +28,15 @@ $ python3 get-pip.py
 只分享给指定的人。<br>
 <br>
 
-&ensp;&ensp;&ensp;&ensp;**script** :  
-https://blog.csdn.net/ouyang_peng/article/details/78818492  ！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+&ensp;&ensp;&ensp;&ensp;**script** :  <br>
+记录用户在终端的操作，可以将记录存储为指定的文件。```scriptreplay``` 命令可以堆记录进行回放。默认保存在执行```script``` 所在目录的typescript文件。可以直接```cat```查看。
+这是主流Linux发行版自带的命令。无法录制文件编辑的过程，除非编辑前后查看文件，才能记录下文件的编辑前后的区别。
+```# script 文件A```  录制内容将输出到文件A。
+输入```exit``` 退出当前的录制。
+更多用法```scripte -h```
+-a ,追加录制。可以追加录制到已经存在的录制文件中。
+-c, 追加要执行的命令。
+
 <br>
 
 &ensp;&ensp;&ensp;&ensp;[**showterm**](http://showterm.io) : 整体与asciinema很像。需要额外配置ruby环境才能安装和使用。可以把录制的内容，镶嵌在网页中。<br>
@@ -53,7 +60,19 @@ Ctrl + D 退出当前会话。 <br>
 ```
 <br>部署出现异常，添加用户以后，web界面访问不到，防火墙都关闭了，可以ssh，可以ping通，但是web界面访问不到。待排查。 <br>
 
-
-
-！！！！！！！！！！！！！！https://github.com/nelhage/reptyr  需要整理一下
-
+&ensp;&ensp;&ensp;&ensp;[**reptyr**](https://github.com/nelhage/reptyr) :  <br>
+可以对进程进行管理，将某个后台进程调用到前台可见，切换ssh会话也可以实现进程的管理。开发者自称，该工具比screenify效果更好。支持主流的Linux发行版本，支持freeBSD，但是在FreeBSD环境下，
+有待完善。支持多种硬件平台。更多最新的细节，可以通过
+```$ reptyr PID```  通过ssh进程的PID调用会话。所有的输入和输出将都从当前的终端进行。如果进程是被隐藏在后台的，进程的调用需要```bg```和```fg```来控制。```bg```查看当前放在后台的进程。
+特别是输入了```Ctrl + Z  ``` 所隐藏的进程。
+``` jobs -l  ``` 也可以查看，还能看到对应的PID。
+```ps -a  ``` 也可以查看到进程名字和对应的PID。
+安装和查看使用帮助：
+```
+$ git clone https://github.com/nelhage/reptyr.git
+$ cd reptyr/
+$ yum  install  gcc -y
+$ make && make install
+$ reptyr --help
+```
+ <br>
