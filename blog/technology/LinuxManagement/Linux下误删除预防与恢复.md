@@ -14,6 +14,6 @@ Linux下误删除的恢复方案<br>
 使用工具进行恢复（如果你丢失数据的磁盘是A，那你最好选择A以外的磁盘安装工具，避免被删除数据的位置被新数据覆盖。）：<br>
 [TestDisk](https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/LinuxManagement/testdisk-恢复Linux下误删除数据.md) <br>
 [extundelete](https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/LinuxManagement/extundelete-恢复Linux下误删除数据.md)<br>
-[debugfs]()<br>
+[debugfs](待定)<br>
 [R-Linux]()<br>
 [ext3grep]()<br>
