@@ -2,6 +2,9 @@
 <br>例如“北京东方小区+张三身份证号或手机号+东方小区1号楼一单元101整租/单间+合同到期以后，直接失联不给押金”
 
 
+济南市:
+黑中介: http://tieba.baidu.com/p/6187888744?pn=1
+
 
 https://www.zhihu.com/question/288966198/answer/666895064#showWechatShareTip  黑心房源
 

@@ -35,6 +35,7 @@ https://my.ss8.fun<br>
 https://github.com/adminlinzi/adminlinzi.github.io/blob/master/blog/technology/ss免费节点地址收藏.md <br>
 https://cat.freess.info<br>
 https://github.com/max2max/freess （https://www.veekxt.com/utils/v2ray_gen）<br>
+https://github.com/Alvin9999/new-pac/wiki/ss免费账号 <br>
 
 杂项：
 https://github.com/comeforu2012/truth/wiki
